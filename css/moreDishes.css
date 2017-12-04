@@ -54,7 +54,7 @@ body{
   }
 }
 
-/*bigger screen size*/
+/*ipad size*/
 
 @media screen and (min-width:500px){
   #dishList{
@@ -66,7 +66,7 @@ body{
 
   .dishTray{
   background: white;
-  width: 31%;
+  width: 31.294%%;
   height: 39vw;
   margin: 1vw;
   border-radius: 2vw;
